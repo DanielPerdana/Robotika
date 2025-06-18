@@ -30,7 +30,7 @@ Di pertemuan perdana, kami mengikuti sesi perkenalan dengan dosen pengampu, Bapa
 Pada pertemuan kedua, fokus belajar beralih pada pemasangan Arduino IDE sebagai software utama untuk pemrograman mikrokontroler. Kami juga mempelajari cara menambahkan library–library penting dan melakukan konfigurasi dasar yang dibutuhkan pada IDE.
 
 ## Pertemuan 3
-###Praktik Awal Arduino IDE dengan ITCLab
+### Praktik Awal Arduino IDE dengan ITCLab
 Di pertemuan ketiga, kami langsung mencoba menjalankan kode contoh dari Pak Basuki. Program tersebut mengendalikan mesin ITCLab untuk memutar “gerigi” dengan kecepatan yang dipercepat, lalu diperlambat hingga berhenti. Kegiatan ini memperkenalkan dasar pengaturan kecepatan motor melalui pemrograman.
 
 ## Pertemuan 4

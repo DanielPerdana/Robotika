@@ -34,7 +34,7 @@ Materi pada pertemuan keenam beralih ke konsep Internet of Things (IoT). Kami di
 
 ## Pertemuan 7
 ### Praktik Kontrol Robot BNU V2 via IoT MQTT Panel
-Di pertemuan ketujuh, kami mengendalikan robot BNU V2 secara langsung melalui aplikasi MQTT Panel. Perintah dikirim lewat protokol MQTT dan diinterpretasikan menjadi aksi nyata pada robot, sehingga kami memperoleh pengalaman praktis komunikasi IoT dengan robotika.
+Mengendalikan robot BNU V2 dengan menggunakan aplikasi IoT MQTT Panel. Kami mengirimkan sebuah perintah melalui MQTT Panel yang diterjemahkan menjadi aksi pada robot secara real-time. Praktik ini bertujuan untuk memahami penerapan praktis tentang komunikasi IoT menggunakan protokol MQTT.
 ### Dokumentasi
 <img src="./Dokumentasi ITCLab dan IMCLab/BNUV2-IoT-MQTT-Panel.jpeg" alt="Praktik Arduino IDE Dengan ITCLab" height="300"/>
 

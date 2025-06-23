@@ -15,10 +15,14 @@ Pada pertemuan kedua, fokus belajar beralih pada pemasangan Arduino IDE sebagai 
 ## Pertemuan 3
 ### Praktik Awal Arduino IDE dengan ITCLab
 Di pertemuan ketiga, kami langsung mencoba menjalankan kode contoh dari Pak Basuki. Program tersebut mengendalikan mesin ITCLab untuk memutar “gerigi” dengan kecepatan yang dipercepat, lalu diperlambat hingga berhenti. Kegiatan ini memperkenalkan dasar pengaturan kecepatan motor melalui pemrograman.
+### Dokumentasi
+<img src="./Dokumentasi ITCLab dan IMCLab/ITCLab Test.jpeg" alt="Praktik Arduino IDE Dengan ITCLab" height="300"/>
 
 ## Pertemuan 4
 ### Mengoperasikan LED menggunakan Arduino IDE dan ITCLab
 Pada pertemuan keempat, kami praktik menyalakan dan mematikan LED dengan kode yang tersedia. Materi utamanya adalah memahami penggunaan pin digital pada Arduino dan proses upload program ke board lewat ITCLab.
+### Dokumentasi
+<img src="./Dokumentasi ITCLab dan IMCLab/IMCLab Test.jpeg" alt="Praktik Arduino IDE Dengan ITCLab" height="300"/>
 
 ## Pertemuan 5
 ### Kontrol Motor dengan IMCLab
